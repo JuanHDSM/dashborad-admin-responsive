@@ -8,4 +8,4 @@ Dashborad simple com design responsivo
 
 Desenvolvido com HTML5, CSS3 e JavaScript de forma semântica e responsiva
 
-# Dê um fork e contibua :)
+##### :) Wubba Lubba Dub-Dub
